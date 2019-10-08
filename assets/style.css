@@ -1,0 +1,20 @@
+body {
+    background-image: url(/assets/images/nba\ background.jpg);
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+    
+}
+
+button {
+    margin: 10px;
+}
+
+.btn-default {
+    color: white; 
+}
+
+#form {
+    color: white;
+}
